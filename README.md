@@ -64,3 +64,8 @@ This project was developed during the **2024 Bioinformatics Hackathon**, where i
 
 ### License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
+
+### Contact
+Created by Olivia Peng. Feel free to reach out :)
